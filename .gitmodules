@@ -1,0 +1,21 @@
+[submodule "creative_coding_helloWorld"]
+	path = creative_coding_helloWorld
+	url = git@github.com:g00st/creative_coding_helloWorld.git
+[submodule "creative_coding_pixelation"]
+	path = creative_coding_pixelation
+	url = git@github.com:g00st/creative_coding_pixelation.git
+[submodule "creative_coding_spaceInvaders"]
+	path = creative_coding_spaceInvaders
+	url = git@github.com:g00st/creative_coding_spaceInvaders.git
+[submodule "creative_coding_circelMove"]
+	path = creative_coding_circelMove
+	url = git@github.com:g00st/creative_coding_circelMove.git
+[submodule "creative_coding_Translation_and_rotation"]
+	path = creative_coding_Translation_and_rotation
+	url = git@github.com:g00st/creative_coding_Translation_and_rotation.git
+[submodule "creative_coding_circle_packing"]
+	path = creative_coding_circle_packing
+	url = git@github.com:g00st/creative_coding_circle_packing.git
+[submodule "creative_coding_2d_Raymarching"]
+	path = creative_coding_2d_Raymarching
+	url = git@github.com:g00st/creative_coding_2d_Raymarching.git
