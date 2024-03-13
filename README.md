@@ -1,5 +1,5 @@
 # Aufgaben
-##Woche 1:
+## Woche 1:
 
 1. [Hello World](https://github.com/g00st/creative_coding_helloWorld) punkte verschwinden mit der zeit wieder https://www.youtube.com/watch?v=9yOrnWvOpEU
 2. [Image Pixelation ](https://github.com/g00st/creative_coding_pixelation) Punte im kreiß angeordnet und mit n paar parametern zum verändern https://www.youtube.com/watch?v=O5kR9dPr44s
