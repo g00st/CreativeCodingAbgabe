@@ -11,6 +11,6 @@
 2. [Repeated Rotation and Scaling](https://github.com/g00st/creative_coding_repeated_translation_and_rotation)
 3. [Kaleidoscope snowflake challenge](https://github.com/g00st/creative_coding_snowflakes)
 ## Woche 4:
-1. [Circle packing](https://github.com/g00st/creative_coding_circle_packing)
+1. [Circle packing](https://github.com/g00st/creative_coding_circle_packing) habe es so angepasst das es immer aus den nächst hellsetne Pixeln den neuen Punkt auswählt und  https://www.youtube.com/watch?v=qrOhlNRBqFc und auf videos angewendet werden kann https://www.youtube.com/watch?v=qrOhlNRBqFc. 
 2. [Shoot them up game]
 
