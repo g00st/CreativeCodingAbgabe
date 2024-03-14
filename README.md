@@ -5,6 +5,6 @@
 2. [Image Pixelation ](https://github.com/g00st/creative_coding_pixelation) Punte im kreiß angeordnet und mit n paar parametern zum verändern https://www.youtube.com/watch?v=O5kR9dPr44s
 ## Woche 2:
 1. [Space Invaders](https://github.com/g00st/creative_coding_spaceInvaders/) 
-2. [Quater Circles](https://github.com/g00st/cretive_codeing_quaterCircles) Hier hab ich aus dem muster ein kleines Spiele gemacht, man kann immer 2*2 qatercicles drehen wenn man es schaft einen vollen kreiß zu bauen wird bekommt men einen größeren Qatercircel den man theoretisch wieder zu einem noch größeren machne kann usw. 
+2. [Quater Circles](https://github.com/g00st/cretive_codeing_quaterCircles) Hier hab ich aus dem muster ein kleines Spiel gemacht, man kann immer 2*2 Quater Circl drehen wenn man es schaft einen vollen kreiß zu bauen  bekommt man einen größeren Quater Circl den man theoretisch wieder zu einem noch größeren machne kann usw. [ https://youtu.be/NrNfQReNtBw](https://www.youtube.com/watch?v=NrNfQReNtBw)
 [Moving Circles](https://github.com/g00st/creative_coding_spaceInvaders/)
 
