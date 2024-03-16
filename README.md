@@ -14,3 +14,13 @@
 1. [Circle packing](https://github.com/g00st/creative_coding_circle_packing) habe es so angepasst das es immer aus den nächst hellsetne Pixeln den neuen Punkt auswählt und   auf videos angewendet werden kann https://www.youtube.com/watch?v=qrOhlNRBqFc. 
 2. [Shoot them up game]
 
+## Woche 5:
+1.[Recursion and Fractals](https://github.com/g00st/Creative_coding_recursion) Binary tree fractal bei dem eine ast mit sin und der ander mit cos animiert wird https://www.youtube.com/watch?v=NArL5wMTNT4
+2-3.[Bounching Balls/Atracted triangles](https://github.com/g00st/Creative_coding_Bouncing-balls) 
+
+## Woche 6:
+1 [Shapes and Polar cordinates](https://github.com/g00st/Creative_coding_shapes)
+## Woche 7
+1. [Partcile Systems]()
+## Woche8
+1 [Agents and flocking]()
