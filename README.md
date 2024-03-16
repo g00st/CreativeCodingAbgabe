@@ -15,7 +15,7 @@
 2. [Shoot them up game]
 
 ## Woche 5:
-1. [Recursion and Fractals](https://github.com/g00st/Creative_coding_recursion) Binary tree fractal bei dem eine ast mit sin und der ander mit cos animiert wird https://www.youtube.com/watch?v=NArL5wMTNT4
+1. [Recursion and Fractals](https://github.com/g00st/Creative_coding_recursion) Binary tree fractal bei dem eine ast mit sin und der ander mit cos animiert wird https://www.youtube.com/watch?v=NArL5wMTNT4 <br>
 2-3. [Bounching Balls/Atracted triangles](https://github.com/g00st/Creative_coding_Bouncing-balls) 
 
 ## Woche 6:
