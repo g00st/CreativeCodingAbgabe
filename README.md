@@ -20,7 +20,7 @@
 
 ## Woche 6:
 1. [Shapes and Polar cordinates](https://github.com/g00st/Creative_coding_shapes)
-## Woche 7
+## Woche 7:
 1. [Partcile Systems]()
-## Woche8
+## Woche 8:
 1. [Agents and flocking]()
