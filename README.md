@@ -15,12 +15,12 @@
 2. [Shoot them up game]
 
 ## Woche 5:
-1.[Recursion and Fractals](https://github.com/g00st/Creative_coding_recursion) Binary tree fractal bei dem eine ast mit sin und der ander mit cos animiert wird https://www.youtube.com/watch?v=NArL5wMTNT4
-2-3.[Bounching Balls/Atracted triangles](https://github.com/g00st/Creative_coding_Bouncing-balls) 
+1. [Recursion and Fractals](https://github.com/g00st/Creative_coding_recursion) Binary tree fractal bei dem eine ast mit sin und der ander mit cos animiert wird https://www.youtube.com/watch?v=NArL5wMTNT4
+2-3. [Bounching Balls/Atracted triangles](https://github.com/g00st/Creative_coding_Bouncing-balls) 
 
 ## Woche 6:
-1 [Shapes and Polar cordinates](https://github.com/g00st/Creative_coding_shapes)
+1. [Shapes and Polar cordinates](https://github.com/g00st/Creative_coding_shapes)
 ## Woche 7
 1. [Partcile Systems]()
 ## Woche8
-1 [Agents and flocking]()
+1. [Agents and flocking]()
